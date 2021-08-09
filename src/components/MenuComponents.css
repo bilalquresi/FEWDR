@@ -1,0 +1,10 @@
+.container>.row:hover {
+    cursor:pointer;
+}
+
+.image{
+    height: auto;
+    max-height: 250px;
+    width: auto;
+    max-width: 250px;
+}
