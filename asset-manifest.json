@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/FEWDR/static/css/main.f5b7bc35.chunk.css",
+    "main.js": "/FEWDR/static/js/main.55e5fa59.chunk.js",
+    "main.js.map": "/FEWDR/static/js/main.55e5fa59.chunk.js.map",
+    "runtime-main.js": "/FEWDR/static/js/runtime-main.82c651de.js",
+    "runtime-main.js.map": "/FEWDR/static/js/runtime-main.82c651de.js.map",
+    "static/css/2.ea1f8e13.chunk.css": "/FEWDR/static/css/2.ea1f8e13.chunk.css",
+    "static/js/2.6f19ff1d.chunk.js": "/FEWDR/static/js/2.6f19ff1d.chunk.js",
+    "static/js/2.6f19ff1d.chunk.js.map": "/FEWDR/static/js/2.6f19ff1d.chunk.js.map",
+    "static/js/3.b53ccef3.chunk.js": "/FEWDR/static/js/3.b53ccef3.chunk.js",
+    "static/js/3.b53ccef3.chunk.js.map": "/FEWDR/static/js/3.b53ccef3.chunk.js.map",
+    "index.html": "/FEWDR/index.html",
+    "static/css/2.ea1f8e13.chunk.css.map": "/FEWDR/static/css/2.ea1f8e13.chunk.css.map",
+    "static/css/main.f5b7bc35.chunk.css.map": "/FEWDR/static/css/main.f5b7bc35.chunk.css.map",
+    "static/js/2.6f19ff1d.chunk.js.LICENSE.txt": "/FEWDR/static/js/2.6f19ff1d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/FEWDR/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82c651de.js",
+    "static/css/2.ea1f8e13.chunk.css",
+    "static/js/2.6f19ff1d.chunk.js",
+    "static/css/main.f5b7bc35.chunk.css",
+    "static/js/main.55e5fa59.chunk.js"
+  ]
+}
